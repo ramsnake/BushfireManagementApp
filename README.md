@@ -4,6 +4,12 @@
 
 A small, device-local demonstration for conversations with volunteer bushfire brigades in regional Western Australia. All initial members and records are fictional.
 
+## GitHub Pages and home-screen access
+
+In this repository's **Settings → Pages**, set **Source** to **Deploy from a branch**, choose **main** and **/ (root)**, then save. The included `.nojekyll` file serves the static application without Jekyll processing. GitHub will show its published address in this settings page once deployment completes; subsequent pushes to `main` publish updates automatically.
+
+The expected address is `https://ramsnake.github.io/BushfireManagementApp/`. This address works only after Pages is enabled and deployment has completed. On iPhone or iPad, open the published address in Safari and choose **Share → Add to Home Screen**. On Android, use Chrome's **Install app** or **Add to Home screen** menu. Visit once while connected and let the offline cache install before trying offline use. Records remain separate on each device and browser. GitHub Pages hosts public demonstration files; do not commit real brigade records or personal information.
+
 ## Run
 
 Requires Python 3. From this checkout:
