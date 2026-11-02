@@ -1,3 +1,5 @@
+# BushfireManagementApp
+
 # Brigade Activity Hub
 
 A small, device-local demonstration for conversations with volunteer bushfire brigades in regional Western Australia. All initial members and records are fictional.
